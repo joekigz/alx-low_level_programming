@@ -9,7 +9,7 @@
  */
 int main(void)
 {
-char word[9] = "Main";
+char word[4] = "Main";
 int i;
 
 for (i = 0; i < 9; i++)
